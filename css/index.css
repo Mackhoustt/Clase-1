@@ -1,1 +1,22 @@
-body
+
+body{ background-color: linen;
+    
+    background:url('../images/thesmiths.jpg');
+    background-size: cover;
+  background-position: (20, 20, 20, 20);
+}
+#orden {
+    padding: 20px;
+
+}
+.lista li{
+}
+.contenedor {
+    width: 80%;
+    margin: 0 auto;
+}
+.contenido-titulo {
+    font-style: italic;
+    font-size: 48px;
+    
+}
