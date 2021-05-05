@@ -1,0 +1,26 @@
+.box { display: block;
+
+}
+
+#uno {
+
+}
+
+section {
+    display: block;
+    border: 1px lightslategrey;
+
+}
+.right {
+
+}
+.left {
+    background: slategray;
+    position: relative;
+
+}
+.clear {
+    float: right;
+    background: silver;
+
+}
